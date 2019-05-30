@@ -12,7 +12,7 @@ export default new Router({
       component: HelloWorld
     },
     {
-      path: '/views',
+      path: '/first',
       name: 'First',
       component: First
     }

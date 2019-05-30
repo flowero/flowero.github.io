@@ -41,25 +41,14 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 body{font-family:'Microsoft YaHei', Verdana, Arial, Helvetica, sans-serif}
-.container {
-    max-width: 800px;
-}
+.container {max-width: 800px;}
 .bold-red{font-weight:bold;color:red;}
 .widthLimit img{width: 260px;}
 .panel{padding:20px;}
 .panel-default{padding: 20px 0}
-h1, h2 {
-  font-weight: normal;
-}
-h4{
-  text-align: left;
-}
-hr{
-  border-top:2px solid rgba(0,0,0,0.96);
-}
-a {
-  color: #42b983;
-}
+h1, h2 {font-weight: normal;}
+h4{text-align: left;}
+hr{border-top:2px solid rgba(0,0,0,0.96);}
+a{color: #42b983;}
 .img-left{text-align: left;}
-
 </style>
